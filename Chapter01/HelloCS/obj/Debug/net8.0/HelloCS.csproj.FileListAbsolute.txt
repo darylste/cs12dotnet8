@@ -1,0 +1,14 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/bin/Debug/net8.0/HelloCS
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/bin/Debug/net8.0/HelloCS.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/bin/Debug/net8.0/HelloCS.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/bin/Debug/net8.0/HelloCS.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/bin/Debug/net8.0/HelloCS.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/HelloCS.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/refint/HelloCS.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/HelloCS.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/HelloCS.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter01/HelloCS/obj/Debug/net8.0/ref/HelloCS.dll

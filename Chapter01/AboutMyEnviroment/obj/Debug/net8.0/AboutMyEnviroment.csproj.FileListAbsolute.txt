@@ -1,0 +1,14 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/bin/Debug/net8.0/AboutMyEnviroment
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/bin/Debug/net8.0/AboutMyEnviroment.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/bin/Debug/net8.0/AboutMyEnviroment.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/bin/Debug/net8.0/AboutMyEnviroment.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/bin/Debug/net8.0/AboutMyEnviroment.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/AboutMyEnviroment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/AboutMyEnviroment.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/AboutMyEnviroment.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/AboutMyEnviroment.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/AboutMyEnviroment.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/refint/AboutMyEnviroment.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/AboutMyEnviroment.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/AboutMyEnviroment.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter01/AboutMyEnviroment/obj/Debug/net8.0/ref/AboutMyEnviroment.dll

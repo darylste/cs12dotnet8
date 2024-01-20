@@ -1,0 +1,4 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Vocabulary/obj/Debug/net8.0/Vocabulary.csproj.CoreCompileInputs.cache
