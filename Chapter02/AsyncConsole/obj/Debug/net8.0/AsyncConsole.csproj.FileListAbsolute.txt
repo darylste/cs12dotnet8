@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/refint/AsyncConsole.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/AsyncConsole/obj/Debug/net8.0/ref/AsyncConsole.dll

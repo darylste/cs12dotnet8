@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/bin/Debug/net8.0/Formatting
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/bin/Debug/net8.0/Formatting.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/bin/Debug/net8.0/Formatting.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/bin/Debug/net8.0/Formatting.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/bin/Debug/net8.0/Formatting.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/refint/Formatting.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/Formatting.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Formatting/obj/Debug/net8.0/ref/Formatting.dll

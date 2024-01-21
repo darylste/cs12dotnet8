@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/bin/Debug/net8.0/Variables
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/bin/Debug/net8.0/Variables.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/bin/Debug/net8.0/Variables.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/bin/Debug/net8.0/Variables.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/refint/Variables.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Variables/obj/Debug/net8.0/ref/Variables.dll

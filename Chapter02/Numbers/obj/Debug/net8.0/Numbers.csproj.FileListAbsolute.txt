@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/bin/Debug/net8.0/Numbers
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/bin/Debug/net8.0/Numbers.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/bin/Debug/net8.0/Numbers.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/bin/Debug/net8.0/Numbers.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/bin/Debug/net8.0/Numbers.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/refint/Numbers.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/Numbers.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Numbers/obj/Debug/net8.0/ref/Numbers.dll

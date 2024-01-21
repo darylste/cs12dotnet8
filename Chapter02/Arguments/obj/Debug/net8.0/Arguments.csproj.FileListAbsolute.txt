@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/bin/Debug/net8.0/Arguments.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/refint/Arguments.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/Arguments.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Arguments/obj/Debug/net8.0/ref/Arguments.dll

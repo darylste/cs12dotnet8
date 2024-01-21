@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/refint/Ch02Ex03Numbers.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/ref/Ch02Ex03Numbers.dll
