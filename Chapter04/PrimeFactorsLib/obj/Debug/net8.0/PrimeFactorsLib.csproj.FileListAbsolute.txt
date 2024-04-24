@@ -1,0 +1,12 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/bin/Debug/net8.0/PrimeFactorsLib.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/bin/Debug/net8.0/PrimeFactorsLib.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/bin/Debug/net8.0/PrimeFactorsLib.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/PrimeFactorsLib.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/PrimeFactorsLib.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/PrimeFactorsLib.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/PrimeFactorsLib.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/PrimeFactorsLib.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/refint/PrimeFactorsLib.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/PrimeFactorsLib.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/PrimeFactorsLib/obj/Debug/net8.0/ref/PrimeFactorsLib.dll

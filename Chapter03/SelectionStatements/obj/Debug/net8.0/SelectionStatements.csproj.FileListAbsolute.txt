@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/bin/Debug/net8.0/SelectionStatements
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/bin/Debug/net8.0/SelectionStatements.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/bin/Debug/net8.0/SelectionStatements.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/bin/Debug/net8.0/SelectionStatements.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/bin/Debug/net8.0/SelectionStatements.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/refint/SelectionStatements.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/SelectionStatements.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter03/SelectionStatements/obj/Debug/net8.0/ref/SelectionStatements.dll

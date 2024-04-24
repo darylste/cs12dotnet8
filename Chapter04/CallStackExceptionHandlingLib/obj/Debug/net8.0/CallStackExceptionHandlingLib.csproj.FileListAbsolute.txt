@@ -1,0 +1,12 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net8.0/CallStackExceptionHandlingLib.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net8.0/CallStackExceptionHandlingLib.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/bin/Debug/net8.0/CallStackExceptionHandlingLib.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/refint/CallStackExceptionHandlingLib.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/CallStackExceptionHandlingLib.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/CallStackExceptionHandlingLib/obj/Debug/net8.0/ref/CallStackExceptionHandlingLib.dll

@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/bin/Debug/net8.0/TopLevelFunctions
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/bin/Debug/net8.0/TopLevelFunctions.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/bin/Debug/net8.0/TopLevelFunctions.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/bin/Debug/net8.0/TopLevelFunctions.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/bin/Debug/net8.0/TopLevelFunctions.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/refint/TopLevelFunctions.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/TopLevelFunctions.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/TopLevelFunctions/obj/Debug/net8.0/ref/TopLevelFunctions.dll

@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/bin/Debug/net8.0/WritingFunctions.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/refint/WritingFunctions.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/WritingFunctions.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/WritingFunctions/obj/Debug/net8.0/ref/WritingFunctions.dll

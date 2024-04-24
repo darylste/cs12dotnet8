@@ -1,0 +1,15 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/bin/Debug/net8.0/Debugging
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/bin/Debug/net8.0/Debugging.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/bin/Debug/net8.0/Debugging.runtimeconfig.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/bin/Debug/net8.0/Debugging.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/bin/Debug/net8.0/Debugging.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/refint/Debugging.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/Debugging.genruntimeconfig.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter04/Debugging/obj/Debug/net8.0/ref/Debugging.dll
