@@ -1,0 +1,11 @@
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.deps.json
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/bin/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.AssemblyReference.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfoInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.AssemblyInfo.cs
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.csproj.CoreCompileInputs.cache
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.sourcelink.json
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.dll
+/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/obj/Debug/netstandard2.0/PacktLibraryNetStandard2.pdb

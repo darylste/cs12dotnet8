@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tWx75/MYAO9VrLarz6TJgHBKZcv99gAdNgvl3vZL7uV/JSMiRfdsE2T05uANuBjkoiyCCBzwtxiIUx584//fnQ==",
+  "success": true,
+  "projectFilePath": "/Users/daryl/Projects/cs12dotnet8/Chapter05/PacktLibraryNetStandard2/PacktLibraryNetStandard2.csproj",
+  "expectedPackageFiles": [
+    "/Users/daryl/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/daryl/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

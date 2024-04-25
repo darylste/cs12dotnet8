@@ -60,3 +60,47 @@ public class CalculatorTests
 ```
 
 ## Chapter 5
+
+### Principles of OOP
+
+#### Encapsulation
+
+The combination of data and actions related to an object. Often used to control access.
+
+#### Composition
+
+The referencing of objects of another class in a classes instance variables. Allows for the reuse of code and cleaner code design.
+
+#### Aggregation
+
+Aggregation represents a whole-part relationship between classes, where one class can make up part of a more complex class.
+
+#### Inheritance
+
+Inheritance involves reusing code by allowing a subclass to derive from a superclass, inheriting all functionallity of the superclass.
+
+#### Abstraction
+
+Abstraction is the action of hiding unnessary detail or complexity to show only the necessary characters.
+
+#### Polymorphism
+
+Polymorphism allows a derived class to overrise an inherited action to provide custom behavior, allowing for increased flexability and code reusablilty.
+
+### Derive an enum type from:
+
+- byte - up to 8 options,
+- ushort - up to 16 options,
+- uint - up to 32 options,
+- ulong - up to 64 options
+
+### Access controls
+
+| **Member Access Modifier** | **Description**                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------ |
+| Private                    | Accessible inside the type only. (_Default_)                                                     |
+| Internal                   | Accessible inside the type and any type in the same assembly.                                    |
+| Protected                  | Accessible inside the type and any type which inherits from it.                                  |
+| Public                     | Accessible everywhere.                                                                           |
+| Internal Proteced          | Accessible inside the type, any type in the same assembly, and any type that inherits from it.   |
+| Private Protected          | Accessible inside the type and any type that inherits from the type and is in the same assembly. |
